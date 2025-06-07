@@ -58,18 +58,6 @@
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFA500&center=true&vCenter=true&width=320&lines=📈+Contribution+Graph" />
-</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wimalarathna-ARSA/wimalarathna-ARSA/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wimalarathna-ARSA/wimalarathna-ARSA/output/pacman-contribution-graph.svg">
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/wimalarathna-ARSA/wimalarathna-ARSA/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00CED1&center=true&vCenter=true&width=260&lines=🌐+Connect+with+Me" />
 </h3>
 
