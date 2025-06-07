@@ -1,4 +1,4 @@
-[<h1 align="center"> 👋Hi, I'm Sammani Wimalarathna</h1>
+<h1 align="center"> 👋Hi, I'm Sammani Wimalarathna</h1>
 <h3 align="center">SE undergraduate at SLIIT</h3>
 <h3 align="left">🧑‍💻 Aspiring Full Stack Developer</br>
 ✨ Driven to build complete web applications using the MERN stack</br>
