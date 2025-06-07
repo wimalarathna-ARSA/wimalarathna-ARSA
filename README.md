@@ -93,7 +93,8 @@
 - ✨ Updated [AF02](https://github.com/wimalarathna-ARSA/AF02) with new features on 2025-05-12  
 - 🛠️ Committed changes to [TaskApp](https://github.com/wimalarathna-ARSA/TaskApp) on 2024-06-12  
 - 📱 Created [QuizeMobileApp](https://github.com/wimalarathna-ARSA/QuizeMobileApp) on 2025-06-07  
-- 💬 Pushed updates to this README on 2025-06-07  
+- 💬 Pushed updates to this README on 2025-06-07
+  
 
 ---
 
